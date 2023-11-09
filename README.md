@@ -8,3 +8,5 @@ detalii despre cum am gandit testarea(am trimis requesturi pt toate end pointuri
 mentionan daca este nevoie de autentificare plus cum am creat acel token
 
 fisierul de tip jason cu colectia exportata din postman plus detalii plus link-collection-export-fisier json(il incarcam cum am facut si cu pdf-urile)
+
+cand rulam test caseurile se genereaza un raport-putem si acesta sa-l incarcam, sa se vada ca au fost executate si ca sunt passed
